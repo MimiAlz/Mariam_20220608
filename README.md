@@ -1,3 +1,3 @@
 # Mariam_20220608
 
-## Hello, this is Mariam from PSUT!
+## Hi, this is Mariam from PSUT!
